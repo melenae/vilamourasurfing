@@ -31,8 +31,8 @@ Deployed on **Netlify**: [vilamourasurfing.netlify.app](https://vilamourasurfing
 ---
 
 ## 📸 Screenshots
-![Home Page](./docs/screenshot-home.png)
-*(Add your screenshot in the `/docs` folder and update the link above)*
+![Home Page](./images/screenshot-home.png)
+
 
 ---
 
